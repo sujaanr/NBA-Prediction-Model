@@ -14,7 +14,7 @@ Offensive Rating: Measures a team's efficiency at scoring points.
 Defensive Rating: Gauges a team's effectiveness in preventing the opponent from scoring.
 True Shooting Percentage: A more accurate measure of a player's shooting efficiency, considering field goals, 3-point field goals, and free throws.
 
-
+ 
 # Usage
 
 ### **Installation**
