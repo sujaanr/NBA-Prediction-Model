@@ -5,21 +5,21 @@
 # Model
 In my journey to predict NBA game outcomes more accurately, I've developed a logistic regression model that meticulously analyzes eight critical factors, each normalized per 100 possessions. This normalization is crucial as it accounts for the pace of the game, ensuring that our predictions are not just accurate but also universally applicable, regardless of the game's tempo. The factors my model considers include:
 
-Home Team Advantage: Recognizing the statistical boost teams often receive when playing on their home court.
+- Home Team Advantage: Recognizing the statistical boost teams often receive when playing on their home court.
 
-Win Percentage: A direct indicator of a team's performance and momentum.
+- Win Percentage: A direct indicator of a team's performance and momentum.
 
-Rebounds: Essential for understanding a team's control over the ball and the game.
+- Rebounds: Essential for understanding a team's control over the ball and the game.
 
-Turnovers: Indicative of a team's discipline and handling under pressure.
+- Turnovers: Indicative of a team's discipline and handling under pressure.
 
-Plus/Minus: A snapshot of team performance when specific players are on the court.
+- Plus/Minus: A snapshot of team performance when specific players are on the court.
 
-Offensive Rating: Measures a team's efficiency at scoring points.
+- Offensive Rating: Measures a team's efficiency at scoring points.
 
-Defensive Rating: Gauges a team's effectiveness in preventing the opponent from scoring.
+- Defensive Rating: Gauges a team's effectiveness in preventing the opponent from scoring.
 
-True Shooting Percentage: A more accurate measure of a player's shooting efficiency, considering field goals, 3-point field goals, and free throws.
+- True Shooting Percentage: A more accurate measure of a player's shooting efficiency, considering field goals, 3-point field goals, and free throws.
 
  
 # Usage
